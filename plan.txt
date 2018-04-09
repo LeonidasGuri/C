@@ -1,0 +1,42 @@
+Pelaths => Basikh ontothta
+Stoixeio Agoras => Proion, posothta
+Agores Pelath => Lista Stoixeiwn Agoras 
+Dwro => Pairnei pelaths h omada pelatwn analoga me pontoys agorwn
+
+Arxeio1: Dedomena agorwn - mia agora ana grammh
+Antistoixish apo:
+Kwd kartas se:
+Lista apo
+{
+	Hmera ebodmadas
+	Agores Pelath
+}
+
+Arxeio2:
+Antistoixish apo:
+Kwd omadas proiontwn se:
+	Synteelsths pontwn
+	Lista kwd proiontwn
+
+Arxeio 3:
+Antistoixsh apo:
+Kwd proiontos se:
+	Pinaka timwn 7 keliwn, ena gia kathe mera
+
+Anagnwsh 3 algorithmos:
+Gia kathe kwdiko poy emfanizetai, anathetoyme ston
+pinaka timwn thn timh poy dinetai gia th lista hmerwn
+poy akoloythei.
+Otan teleiwsei h eisodos tote:
+Gia kathe proion, bres thn hmera me th megisth timh
+kai these thn timh ayth stis hmeres poy den exoyn labei timh
+
+Kyrios algorithmos:
+
+* Anagnwsh arxeiwn 1,2,3 kai apothikeysh dedomenwn.
+* Eyresh kartwn poy sygkentrwsan perissoteroys pontoys
+* Fortwsh arxeiwn 4(kwdikoi omadas), 5 (kwdikoi kai pontoi dwroy)
+* Athroish pontwn kathe kartas sthn omada, kai eyresh dwrwn poy
+ksepernaei to poso poy ypologisame.
+* Ypologismos sygkroysewn gia synarthseis katakermatismoy
+
